@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: çözümlenmemiş dış sembol _main için "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) işlevinde başvuruldu
+C:\Users\berke\source\repos\veri yapıları ve algoritmalar hafta 4 buble sort\Debug\veri yapıları ve algoritmalar hafta 4 buble sort.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar

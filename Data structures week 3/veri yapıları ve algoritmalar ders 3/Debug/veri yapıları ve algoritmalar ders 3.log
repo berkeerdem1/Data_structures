@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\berke\source\repos\veri yapıları ve algoritmalar ders 3\veri yapıları ve algoritmalar ders 3\Kaynak.cpp(34,26): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  veri yapıları ve algoritmalar ders 3.vcxproj -> C:\Users\berke\source\repos\veri yapıları ve algoritmalar ders 3\Debug\veri yapıları ve algoritmalar ders 3.exe

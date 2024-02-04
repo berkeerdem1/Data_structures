@@ -1,0 +1,4 @@
+﻿  yığın.cpp
+C:\Users\berke\source\repos\veri yapıları hafya 6\veri yapıları hafya 6\yığın.cpp(32): warning C4715: 'dogrusalkuyruk::ekle': tüm denetim yolları değer döndürmez
+C:\Users\berke\source\repos\veri yapıları hafya 6\veri yapıları hafya 6\yığın.cpp(43): warning C4715: 'dogrusalkuyruk::cikar': tüm denetim yolları değer döndürmez
+  veri yapıları hafya 6.vcxproj -> C:\Users\berke\source\repos\veri yapıları hafya 6\Debug\veri yapıları hafya 6.exe
