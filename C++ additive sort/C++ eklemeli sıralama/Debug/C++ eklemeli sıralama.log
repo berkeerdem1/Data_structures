@@ -1,0 +1,3 @@
+﻿  C++ eklemeli sıralama.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: çözümlenmemiş dış sembol _main için "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) işlevinde başvuruldu
+C:\Users\berke\source\repos\C++ eklemeli sıralama\Debug\C++ eklemeli sıralama.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
