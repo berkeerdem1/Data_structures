@@ -1,0 +1,3 @@
+﻿  push-pop.cpp
+push-pop.obj : error LNK2019: çözümlenmemiş dış sembol "public: int __thiscall Stack::topret(void)" (?topret@Stack@@QAEHXZ) için "public: void __thiscall Stack::writeall(void)" (?writeall@Stack@@QAEXXZ) işlevinde başvuruldu
+C:\Users\berke\source\repos\C++ Veri yapıları hafta 5\Debug\C++ Veri yapıları hafta 5.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
