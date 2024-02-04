@@ -1,0 +1,3 @@
+﻿  dizi.cpp
+C:\Users\berke\source\repos\C++ doğrusal aramaa\C++ doğrusal aramaa\dizi.cpp(3,13): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  C++ doğrusal aramaa.vcxproj -> C:\Users\berke\source\repos\C++ doğrusal aramaa\Debug\C++ doğrusal aramaa.exe
